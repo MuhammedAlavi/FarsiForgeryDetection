@@ -1,0 +1,14 @@
+/Data
+/finalResult
+/HandWritObjects
+/Images
+/Images_Forgery
+/lightspeed
+/precious
+/precious2
+/Stroke\ DataBase
+/temporary
+/WordList
+*.mat
+*.txt
+*.log
